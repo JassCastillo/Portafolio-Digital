@@ -1,0 +1,128 @@
+.hoja1{
+    background-color: rgb(3, 81, 88);
+}
+.imagen{
+    position: relative;;
+    top: 300;
+    left: 25%;
+    width: 50%;
+}
+.letrero{
+    display: block;
+    margin: auto;
+    color: white;
+    text-align: center;
+}
+.pie{
+    color: rgb(3, 81, 88);
+    position: relative;
+    padding: 60px;
+    font-size: 150%;
+    clear: both;
+    text-align: center;
+    margin-top: 30%;
+  background-color: ghostwhite;
+}
+.foto{
+    position: relative;
+    top: 300;
+    left: 42%;
+    width: 95px;
+    width: 15%;
+    height: 299px;
+    border-radius: 148px;
+}
+.hoja2{
+    border: 3px solid ghostwhite;
+    }
+.letra{
+    text-align: center;
+    background-color: ghostwhite;
+}
+.lista{
+    color: white;
+    border: 3px solid ghostwhite;
+    text-align: center;
+}
+.tabla{
+    left: 20%;
+}
+.enunciado{
+    text-align: center;
+    background-color: ghostwhite;
+}
+.adicional{
+    position: relative;
+    top: 300;
+    left: 25%;
+    width: 900px;
+}
+.taller{
+    text-align: center;
+    color: white;
+    font-size: 130%;
+}
+.evento{
+    text-align-last: center;
+    color: white;
+    font-size: 140%
+}
+.header{
+    width: 100%;
+    overflow: hidden;
+    background: ghostwhite;
+    margin-bottom: 30px;
+}
+.wrapper{
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    overflow: hidden;
+}
+.logo{
+    color: rgb(3, 81, 88);
+    font-size: 60px;
+    line-height: 200px;
+    float: left;
+}
+header nav{
+    float: right;
+    line-height: 200px;
+}
+header nav a{
+    display: inline-block;
+    color: rgb(3, 81, 88);
+    text-decoration: none;
+    font-size: 15px;
+    padding: 10px 30px;
+    line-height: normal;
+    font-weight: bold;
+    -webkit-transition:all 700ms ease;
+    -o-transition:all 700ms ease;
+    transition:all 700ms ease;
+}
+header nav a:hover{
+    background: ghostwhite;
+    border-radius: 40px;
+}
+.concepto{
+    text-align: left;
+    color: white;
+    font-size: 30px;
+}
+.recomendaciones{
+    color: rgb(3, 81, 88)   ;
+    background-color: ghostwhite;
+    text-align: center;
+}
+.referencias{
+    color: white;
+    text-align: center;
+    font-size: 7px;
+}
+.final{
+    position: relative;;
+    top: 290;
+    left: 35%;
+    width: 30%;
+}
